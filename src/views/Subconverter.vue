@@ -218,7 +218,7 @@ export default {
               {
                 label: "无分组防DNS泄露",
                 value:
-                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak.ini"
+                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak2.ini"
               },
               {
                 label: "超详细有分组不防DNS泄露",
