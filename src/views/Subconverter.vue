@@ -228,6 +228,21 @@ export default {
             ]
           },
           {
+            label: "ACL4SSR",
+            options: [
+              {
+                label: "ACL4SSR(仅规则，No-Urltest)",
+                value:
+                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/ACL4SSR.ini"
+              },
+              {
+                label: "Basic(仅GEOIP CN + Final)",
+                value:
+                  "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/special/basic.ini"
+              }
+            ]
+          }，          
+          {
             label: "customized",
             options: [
               {
