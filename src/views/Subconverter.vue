@@ -225,11 +225,6 @@ export default {
                 value:
                   "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/71557nodnsleak.ini"
               },
-              {
-                label: "ACL4SSR_Online_Full_71557(自定义)",
-                value:
-                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_71557.ini"
-              }，
             ]
           },
           {
