@@ -223,7 +223,7 @@ export default {
               {
                 label: "71557",
                 value:
-                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/71557nodnsleak.ini"
+                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak2.ini"
               },
             ]
           },
