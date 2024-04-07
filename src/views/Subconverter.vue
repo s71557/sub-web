@@ -210,7 +210,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://sub.shizongliang.cn/sub?" },{ value: "http://127.0.0.1:25500/sub?" }],
+        backendOptions: [{ value: "https://sub.shizongliang.cn/sub?" },{ value: "http://op.shizongliang.cn:25500/sub?" }],
         remoteConfig: [
           {
             label: "universal",
