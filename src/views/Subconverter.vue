@@ -228,9 +228,9 @@ export default {
                   "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak2.ini"
               },
 			  {
-                label: "ACL4SSR_Online_Full_Mannix",
+                label: "Mannix",
                 value:
-                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Mannix.ini"
+                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/Mannix.ini"
               },
             ]
           },
