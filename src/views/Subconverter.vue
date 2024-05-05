@@ -227,7 +227,7 @@ export default {
                 value:
                   "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak2.ini"
               },
-			  {
+	      {
                 label: "Mannix",
                 value:
                   "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/Mannix.ini"
