@@ -217,6 +217,11 @@ export default {
           {
             label: "universal",
             options: [
+	      {
+                label: "Mannix",
+                value:
+                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/Mannix.ini"
+              },    
               {
                 label: "不良林防DNS泄露",
                 value:
@@ -226,11 +231,6 @@ export default {
                 label: "71557",
                 value:
                   "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak2.ini"
-              },
-	      {
-                label: "Mannix",
-                value:
-                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/Mannix.ini"
               },
             ]
           },
