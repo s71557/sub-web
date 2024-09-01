@@ -240,17 +240,17 @@ export default {
               {
                 label: "不良林防DNS泄露",
                 value:
-                  "https://ghproxy.com/https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak.ini"
+                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak.ini"
               },
               {
                 label: "71557",
                 value:
-                  "https://ghproxy.com/https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak2.ini"
+                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak2.ini"
               },
               {
                 label: "Mannix",
                 value:
-                  "https://ghproxy.com/https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/Mannix.ini"
+                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/Mannix.ini"
               }, 
             ]
           },
