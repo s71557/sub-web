@@ -238,14 +238,9 @@ export default {
             label: "universal",
             options: [   
               {
-                label: "不良林防DNS泄露",
+                label: "StoneList",
                 value:
                   "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak.ini"
-              },
-              {
-                label: "71557",
-                value:
-                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/nodnsleak2.ini"
               },
               {
                 label: "Mannix",
