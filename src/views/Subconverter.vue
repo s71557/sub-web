@@ -248,9 +248,9 @@ export default {
                   "https://raw.githubusercontent.com/s71557/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online_Full.ini"
               },
               {
-                label: "Mannix",
+                label: "Aethersailor",
                 value:
-                  "https://raw.githubusercontent.com/s71557/ACL4SSR/master/Clash/config/Mannix.ini"
+                  "https://raw.githubusercontent.com/Aethersailor/Custom_OpenClash_Rules/main/cfg/Custom_Clash.ini"
               }, 
             ]
           },
